@@ -15,9 +15,6 @@ A simple web application that allows users to search for GIFs using the **Giphy 
 - **JavaScript (ES6+)**  
 - **Giphy API**  
 
-## Screenshot  
-![Gif Me App Preview](your-screenshot-url-here) *(Replace with an actual screenshot URL after deployment)*
-
 ### **1️⃣ Clone the Repository**  
 git clone https://github.com/your-username/gif-me.git
 cd gif-me
